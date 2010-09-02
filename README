@@ -1,0 +1,10 @@
+These are two minimalist styles, Instapaper inspired, for OSX Vienna RSS reader.
+
+In order to install them, just download the source, uncompress and put the following packages in ~/Library/Application\ Support/Vienna.
+
+- Minimalista Serif.viennastyle
+- Minimalista Sans-serif.viennastyle
+
+Vienna RSS:
+
+- http://www.vienna-rss.org/
