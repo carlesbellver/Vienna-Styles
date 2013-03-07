@@ -55,6 +55,7 @@ blockquote {
 }
 
 div.header {
+	clear: both;
 }
 
 div.header h1 {
