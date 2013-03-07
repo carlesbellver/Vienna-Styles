@@ -55,7 +55,6 @@ blockquote {
 }
 
 div.header {
-	clear: both;
 }
 
 div.header h1 {
@@ -75,6 +74,7 @@ div.info a {
 
 div.main {
 	margin: 1em 0 0 0;
+	overflow:auto;
 }
 
 span.articleDateStyle:before, span.articleAuthorStyle:before
