@@ -76,6 +76,12 @@ div.info a {
 div.main {
 	margin: 1em 0 0 0;
 }
+
+span.articleDateStyle:before, span.articleAuthorStyle:before
+{
+	content: " - ";
+}
+
 /* fix a 100% max size to potentially problematic elements */
 img, table, td, blockquote, code, pre, textarea, input, iframe, object, embed, video {
 	max-width: 100%;
